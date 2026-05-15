@@ -60,7 +60,6 @@
             lblDoctor.Size = new Size(65, 15);
             lblDoctor.TabIndex = 1;
             lblDoctor.Text = "PIB_Doctor";
-            lblDoctor.Click += lblDoctor_Click;
             // 
             // lblTime
             // 
